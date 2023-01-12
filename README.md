@@ -1,7 +1,9 @@
-![Uploading ui.png…](Fashion App UI)
 # Fashion App UI
 
 This fashion app UI is built using the Flutter framework and was designed with inspiration from a design on Dribbble. The app is designed to help users browse and view fashion items.
+
+![Fashion App UI Flutter](https://user-images.githubusercontent.com/53341343/211968543-c07561ca-02ce-4f8b-86f1-70a902c36488.png)
+
 
 # Features:
 
